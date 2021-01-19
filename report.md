@@ -42,6 +42,6 @@ Windows 10 Home Edition x64
 
 java version "11.0.9.1" 2020-11-04
 
-Google Crome Версия 86.0.4240.198 (Официальная сборка), (64 бит)
+Google Chrome Версия 86.0.4240.198 (Официальная сборка), (64 бит)
 
 Git Bash
