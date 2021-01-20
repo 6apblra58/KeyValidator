@@ -8,12 +8,10 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Нет результата "FAIL" в результате ввода невалидного ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/6apblra58/KeyValidator/issues/1#issue-787814998)
+[Нет результата "FAIL" в результате ввода невалидного ключа](https://github.com/6apblra58/KeyValidator/issues/1#issue-787814998)
 
 
-[Нет результата "ОК" в результате ввода валидного ключа 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/6apblra58/KeyValidator/issues/3#issue-787817664)
-
-[Нет результата "ОК" в результате ввода валидного ключа 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/6apblra58/KeyValidator/issues/2#issue-787817221)
+[Нет результата "ОК" в результате ввода валидного ключа](https://github.com/6apblra58/KeyValidator/issues/3#issue-787817664)
 
 ## Описание процесса тестирования
 
